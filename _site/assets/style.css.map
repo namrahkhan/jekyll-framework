@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		".bd-placeholder-img {\n    font-size: 1.125rem;\n    text-anchor: middle;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n  }\n\n  @media (min-width: 768px) {\n    .bd-placeholder-img-lg {\n      font-size: 3.5rem;\n    }\n  }\n  .bd-placeholder-img {\n    font-size: 1.125rem;\n    text-anchor: middle;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n  }\n\n  @media (min-width: 768px) {\n    .bd-placeholder-img-lg {\n      font-size: 3.5rem;\n    }\n  }\n  .bd-placeholder-img {\n    font-size: 1.125rem;\n    text-anchor: middle;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n  }\n\n  @media (min-width: 768px) {\n    .bd-placeholder-img-lg {\n      font-size: 3.5rem;\n    }\n  }\n  .card{\n      text-align: center;\n  }\n  "
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,mBAAmB,AAAC,CAChB,SAAS,CAAE,QAAQ,CACnB,WAAW,CAAE,MAAM,CACnB,mBAAmB,CAAE,IAAI,CACzB,gBAAgB,CAAE,IAAI,CACtB,WAAW,CAAE,IAAI,CAClB,AAED,MAAM,mBACJ,CAAA,AAAA,sBAAsB,AAAC,CACrB,SAAS,CAAE,MAAM,CAClB,CAAA,AAEH,AAAA,mBAAmB,AAAC,CAClB,SAAS,CAAE,QAAQ,CACnB,WAAW,CAAE,MAAM,CACnB,mBAAmB,CAAE,IAAI,CACzB,gBAAgB,CAAE,IAAI,CACtB,WAAW,CAAE,IAAI,CAClB,AAED,MAAM,mBACJ,CAAA,AAAA,sBAAsB,AAAC,CACrB,SAAS,CAAE,MAAM,CAClB,CAAA,AAEH,AAAA,mBAAmB,AAAC,CAClB,SAAS,CAAE,QAAQ,CACnB,WAAW,CAAE,MAAM,CACnB,mBAAmB,CAAE,IAAI,CACzB,gBAAgB,CAAE,IAAI,CACtB,WAAW,CAAE,IAAI,CAClB,AAED,MAAM,mBACJ,CAAA,AAAA,sBAAsB,AAAC,CACrB,SAAS,CAAE,MAAM,CAClB,CAAA,AAEH,AAAA,KAAK,AAAA,CACD,UAAU,CAAE,MAAM,CACrB"
+}
